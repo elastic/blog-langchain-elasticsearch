@@ -1,0 +1,10 @@
+venv
+env
+data
+__pycache__
+.DS_Store
+.env
+models
+cache
+Dataset/test
+Dataset/starwars_all_*
