@@ -1,7 +1,7 @@
 # blog-langchain-elasticsearch
 *Experiment using elastic vector search and langchain*
 
-To run at small scale, check out this google colab [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/derickson/blog-langchain-elasticsearch/blob/main/Notebooks/Privacy_first_AI_search_using_LangChain_and_Elasticsearch.ipynb)
+To run at small scale, check out this google colab [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/elastic/blog-langchain-elasticsearch/blob/main/Notebooks/Privacy_first_AI_search_using_LangChain_and_Elasticsearch.ipynb)
 
 Those who remember the early days of Elasticsearch will remember that ES nodes were spawned with random superhero names that may or may not have come from a wiki scrape of super heros from a certain marvellous comic book universe. Personally, I was always more of a Star Wars fan. In celebration of May the 4th, and amid all the excitement of the rapidly evolving world of AI and Large Language Models, here's an experiment using Star Wars data to create a trivia bot that can answer Star Wars questions.
 
